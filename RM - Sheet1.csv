@@ -1,0 +1,71 @@
+Age,Gender,Number,Employment,Frequency,Laundry,Type,Clothes,Detergent,Amount,Door Service,Mobile App
+25,Female,4,Student,Weekly,Yes,Wash and Iron,<7,Liquid,5-10,Definitely yes,Probably yes
+22,Female,4,Full Time,Daily,Yes,Dry cleaning,<7,Liquid detergent packs,5-10,Maybe,Maybe
+27,Female,4,Full Time,Weekly,No,Ironing,7-10,Liquid,5-10,Probably yes,Probably yes
+23,Female,3,Full Time,Within 72 hours,No,Ironing,10-13,Liquid,11-20,Probably yes,Definitely yes
+23,Male,4,Student,Weekly,Yes,Washing,7-10,Powder,21-30,Probably yes,Probably yes
+24,Male,1,Student,Weekly,Yes,Wash and Iron,13-15,Liquid detergent packs,5-10,Definitely yes,Maybe
+24,Male,4,Student,Weekly,Yes,Wash and Iron,7-10,Liquid,5-10,Definitely yes,Definitely yes
+23,Male,4,Full Time,Within 72 hours,No,Wash and Iron,7-10,Powder,11-20,Probably no,Probably no
+24,Male,4,Student,Daily,Yes,Wash and Iron,<7,Liquid detergent packs,5-10,Probably yes,Probably yes
+22,Male,3,Full Time,Weekly,No,Wash and Iron,10-13,Powder,11-20,Maybe,Probably no
+21,Male,5,Student,Weekly,Yes,Washing,7-10,Powder,21-30,Definitely yes,Definitely yes
+22,Male,5,Student,Weekly,Yes,Wash and Iron,7-10,Powder,above 30,Definitely yes,Definitely yes
+24,Male,2,Full Time,Within 72 hours,No,Wash and Iron,10-13,Liquid,5-10,Definitely yes,Definitely yes
+25,Male,5,Student,Weekly,Yes,Ironing,>15,Powder,5-10,Definitely yes,Maybe
+21,Female,4,Student,Weekly,Yes,Wash and Iron,10-13,Liquid,11-20,Definitely yes,Definitely yes
+21,Female,4,Student,Weekly,Yes,Wash and Iron,<7,Powder,5-10,Definitely yes,Definitely yes
+21,Female,6,Student,Weekly,Yes,Washing,>15,Liquid,5-10,Probably yes,Maybe
+23,Female,4,Looking for work,Daily,Yes,Ironing,7-10,Liquid,5-10,Maybe,Maybe
+22,Female,3,Full Time,Weekly,No,Dry cleaning,<7,Powder,11-20,Definitely yes,Definitely yes
+27,Female,3,Full Time,Weekly,Yes,Washing,7-10,Liquid,5-10,Probably yes,Probably yes
+28,Female,2,Full Time,Weekly,No,Washing,13-15,Liquid,5-10,Probably yes,Probably yes
+28,Female,4,Full Time,Weekly,Yes,Dry cleaning,>15,Liquid detergent packs,5-10,Maybe,Definitely yes
+27,Male,1,Full Time,Weekly,Yes,Wash and Iron,7-10,Liquid,5-10,Definitely yes,Definitely yes
+24,Male,3,Full Time,Weekly,Yes,Wash and Iron,10-13,Liquid detergent packs,5-10,Definitely yes,Definitely yes
+22,Female,4,Student,Weekly,Yes,Wash and Iron,7-10,Liquid,11-20,Probably yes,Definitely yes
+24,Male,3,Student,Weekly,Yes,Wash and Iron,7-10,Liquid,5-10,Definitely yes,Probably yes
+23,Female,4,Student,Within 48 hours,Yes,Wash and Iron,10-13,Powder,11-20,Definitely yes,Maybe
+21,Male,3,Student,Weekly,Yes,Wash and Iron,7-10,Powder,5-10,Definitely yes,Probably yes
+23,Female,6,Full Time,Daily,Yes,Wash and Iron,>15,Powder,21-30,Definitely yes,Definitely yes
+23,Female,3,Full Time,Weekly,Yes,Dry cleaning,<7,Liquid,5-10,Definitely yes,Probably no
+28,Male,2,Full Time,Within 72 hours,Yes,Ironing,7-10,Liquid,5-10,Definitely yes,Probably yes
+25,Male,3,Full Time,Weekly,No,Ironing,7-10,Powder,5-10,Definitely yes,Probably no
+29,Female,2,Part Time,Within 72 hours,Yes,Ironing,>15,Liquid,5-10,Definitely yes,Definitely yes
+26,Male,3,Full Time,Weekly,Yes,Wash and Iron,7-10,Liquid,5-10,Definitely yes,Definitely yes
+26,Female,2,Full Time,Within 72 hours,No,Dry cleaning,<7,Liquid,5-10,Maybe,Probably yes
+22,Male,6,Student,Within 48 hours,Yes,Washing,13-15,Liquid,5-10,Definitely yes,Probably yes
+23,Female,11,Student,Within 72 hours,Yes,Washing,10-13,Liquid,5-10,Definitely yes,Definitely yes
+23,Male,3,Full Time,Weekly,No,Ironing,7-10,Liquid,5-10,Probably yes,Probably yes
+30,Male,2,Full Time,Weekly,No,Ironing,<7,Liquid,5-10,Definitely yes,Definitely yes
+23,Male,4,Student,Within 48 hours,Yes,Wash and Iron,7-10,Liquid detergent packs,21-30,Definitely no,Probably yes
+21,Female,3,Student,Daily,Yes,Ironing,7-10,Liquid,5-10,Probably yes,Definitely yes
+25,Male,3,Student,Weekly,Yes,Wash and Iron,7-10,Powder,5-10,Definitely yes,Probably yes
+28,Male,2,Full Time,Within 48 hours,No,Wash and Iron,7-10,Powder,5-10,Probably no,Probably no
+36,Female,3,Looking for work,Within 48 hours,Yes,Dry cleaning,<7,Liquid,5-10,Definitely yes,Probably yes
+23,Female,4,Student,Weekly,Yes,Washing,7-10,Liquid,11-20,Definitely yes,Definitely yes
+21,Male,4,Student,Weekly,Yes,Wash and Iron,<7,Powder,5-10,Definitely yes,Probably yes
+20,Female,4,Student,Weekly,No,Washing,<7,Powder,11-20,Definitely yes,Definitely yes
+21,Female,10,Student,Within 48 hours,Yes,Wash and Iron,<7,Liquid detergent packs,5-10,Definitely yes,Probably yes
+24,Female,4,Student,Weekly,Yes,Wash and Iron,7-10,Liquid,5-10,Definitely yes,Definitely yes
+23,Male,6,Student,Daily,No,Washing,13-15,Liquid detergent packs,21-30,Definitely yes,Definitely yes
+21,Male,6,Full Time,Within 48 hours,Yes,Ironing,7-10,Powder,5-10,Definitely yes,Definitely yes
+22,Male,4,Student,Weekly,No,Wash and Iron,13-15,Powder,11-20,Definitely yes,Definitely yes
+22,Male,4,Looking for work,Daily,No,Wash and Iron,10-13,Liquid,11-20,Probably no,Maybe
+16,Male,4,Student,Within 48 hours,Yes,Washing,<7,Powder,21-30,Probably yes,Definitely yes
+17,Male,4,Student,Daily,Yes,Ironing,13-15,Liquid,11-20,Definitely yes,Probably yes
+35,Male,6,Full Time,Daily,No,Wash and Iron,>15,Powder,21-30,Definitely yes,Definitely yes
+16,Male,4,Student,Daily,Yes,Wash and Iron,10-13,Powder,11-20,Definitely yes,Definitely yes
+19,Female,5,Student,Daily,Yes,Ironing,<7,Powder,21-30,Maybe,Maybe
+13,Female,7,Student,Daily,Yes,Wash and Iron,7-10,Powder,5-10,Definitely yes,Definitely yes
+18,Female,6,Student,Within 48 hours,Yes,Washing,<7,Powder,11-20,Definitely yes,Definitely yes
+12,Female,4,Student,Daily,Yes,Wash and Iron,7-10,Liquid,5-10,Definitely no,Definitely not
+13,Female,4,Student,Weekly,Yes,Ironing,13-15,Powder,21-30,Probably no,Probably yes
+19,Female,4,Student,Daily,Yes,Dry cleaning,<7,Powder,21-30,Probably yes,Probably yes
+18,Female,9,Student,Daily,No,Wash and Iron,7-10,Powder,5-10,Definitely yes,Maybe
+16,Male,3,Student,Within 72 hours,Yes,Wash and Iron,<7,Liquid,5-10,Maybe,Maybe
+17,Female,9,Student,Daily,No,Dry cleaning,13-15,Powder,5-10,Definitely yes,Probably yes
+18,Female,4,Student,Daily,Yes,Wash and Iron,7-10,Liquid,5-10,Definitely yes,Definitely yes
+17,Male,4,Student,Daily,Yes,Wash and Iron,10-13,Powder,11-20,Definitely yes,Definitely yes
+14,Female,15,Student,Daily,Yes,Wash and Iron,13-15,Others,above 30,Definitely yes,Definitely not
+34,Female,3,Full Time,Within 72 hours,No,Ironing,7-10,Powder,5-10,Definitely yes,Definitely yes
